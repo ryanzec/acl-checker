@@ -1,0 +1,34 @@
+{
+  "name": "acl-checker",
+  "version": "0.1.0",
+  "description": "ACL checker library",
+  "keywords": [
+    "acl"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanzec/acl-checker"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanzec/acl-checker/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Ryan Zec",
+    "email": "code@ryanzec.com",
+    "url": "http://www.ryanzec.com"
+  },
+  "dependencies": {
+    "lodash": "2.4.1"
+  },
+  "devDependencies": {
+    "mocha": "1.18.2",
+    "chai": "1.9.1",
+    "sinon": "1.9.1",
+    "co": "3.0.6"
+  },
+  "engines": {
+    "node": ">=0.11.9"
+  },
+  "main": "lib/index.js"
+}
