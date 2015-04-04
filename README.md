@@ -1,3 +1,5 @@
+**No longer maintained**
+
 # ACL Checker
 
 This is a NodeJS module that allows you to setup roles/resources/permissions and then allows you to check to see if a role has a particular permission for a resource.
